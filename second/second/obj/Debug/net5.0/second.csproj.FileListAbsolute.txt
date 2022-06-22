@@ -1,0 +1,16 @@
+D:\Лиза\ВУЗ\ЧМ\second\second\bin\Debug\net5.0\second.exe
+D:\Лиза\ВУЗ\ЧМ\second\second\bin\Debug\net5.0\second.deps.json
+D:\Лиза\ВУЗ\ЧМ\second\second\bin\Debug\net5.0\second.runtimeconfig.json
+D:\Лиза\ВУЗ\ЧМ\second\second\bin\Debug\net5.0\second.runtimeconfig.dev.json
+D:\Лиза\ВУЗ\ЧМ\second\second\bin\Debug\net5.0\second.dll
+D:\Лиза\ВУЗ\ЧМ\second\second\bin\Debug\net5.0\ref\second.dll
+D:\Лиза\ВУЗ\ЧМ\second\second\bin\Debug\net5.0\second.pdb
+D:\Лиза\ВУЗ\ЧМ\second\second\obj\Debug\net5.0\second.csproj.AssemblyReference.cache
+D:\Лиза\ВУЗ\ЧМ\second\second\obj\Debug\net5.0\second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лиза\ВУЗ\ЧМ\second\second\obj\Debug\net5.0\second.AssemblyInfoInputs.cache
+D:\Лиза\ВУЗ\ЧМ\second\second\obj\Debug\net5.0\second.AssemblyInfo.cs
+D:\Лиза\ВУЗ\ЧМ\second\second\obj\Debug\net5.0\second.csproj.CoreCompileInputs.cache
+D:\Лиза\ВУЗ\ЧМ\second\second\obj\Debug\net5.0\second.dll
+D:\Лиза\ВУЗ\ЧМ\second\second\obj\Debug\net5.0\ref\second.dll
+D:\Лиза\ВУЗ\ЧМ\second\second\obj\Debug\net5.0\second.pdb
+D:\Лиза\ВУЗ\ЧМ\second\second\obj\Debug\net5.0\second.genruntimeconfig.cache
